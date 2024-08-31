@@ -1,5 +1,0 @@
-This is file2.
-
-Thanks.
-
-This is a test and text file.
